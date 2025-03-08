@@ -1,6 +1,6 @@
 # Evaluation of clustering in scVI latent space on Zebrafish embryogenesis dataset
 This repository provides Jupyter notebooks and scripts with the necessary code to reproduce the computations, results and visualizations in the corresponding thesis.\
-It includes the preperation of the Zebrafish embryogenesis dataset[^dataset] from Farrell et al. to include only the gastrulation stage from 3.3 to 12 hpf, the construction of metacells [^metacells] with the original algorithm, the scVI [^scvi] latent space construction followed by a k-means clustering to generate clusters that will be compared to the metacells, the introduction of two metrics to evaluate the quality of the scVI clustering and the visualizations.
+It includes the preperation of the Zebrafish embryogenesis dataset[^dataset] from Farrell et al. to include only the gastrulation stage from 3.3 to 12 hpf, the construction of metacells[^metacells] with the original algorithm, the scVI[^scvi] latent space construction followed by a k-means clustering to generate clusters that will be compared to the metacells, the introduction of two metrics to evaluate the quality of the scVI clustering and the visualizations.
 
 ## Prerequisites
 Since some packages required to run the provided code are dependent on older versions of standard packages like `numpy`, setting up a new conda environment is strongly recommended.\
