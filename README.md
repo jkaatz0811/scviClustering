@@ -21,6 +21,7 @@ Also the `metacell` package natively runs only on Linux and MacOS.
      - [`scvi-tools`](https://github.com/scverse/scvi-tools)
        - may only work with python version 3.10 or lower
      - [`umap-learn`](https://github.com/lmcinnes/umap)
+     - [`Scanpy`](https://github.com/scverse/scanpy)
 
 ## Cloning repository
 You can clone this repository with 
