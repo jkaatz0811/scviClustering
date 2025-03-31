@@ -1,0 +1,28 @@
+order,cell_type,color
+0,Axial mesoderm,#AA7BC9
+1,Axial mesoderm anterior,#C9ADDB
+2,Blastomeres,#BAB3B3
+3,Cephalic mesoderm,#C9EBFB
+4,DEL,#8A6565
+5,Diencephalon,#15521F
+6,EVL,#FAA646
+7,Endoderm,#F397C0
+8,Epiblast,#635547
+9,Epidermis,#F7F79E
+10,Hindbrain,#B3DBC2
+11,Intermediate/lateral mesoderm,#139992
+12,Mesendoderm,#DFCDE4
+13,Midbrain,#647A4F
+14,Nascent mesoderm,#C594BF
+15,Neural plate posterior,#354E23
+16,Neuroectoderm,#94A897
+17,Non-neural ectoderm,#AFB53C
+18,Notochord,#0F4A9C
+19,PGC,#FACB12
+20,Paraxial mesoderm,#8DB5CE
+21,Paraxial mesoderm hoxb7a+,#5E7B8F
+22,Pre-chordal plate,#C568C7
+23,Somites,#C26568
+24,Somites forming,#F79083
+25,Tailbud spinal cord,#CDE088
+26,Telencephalon,#83A365
